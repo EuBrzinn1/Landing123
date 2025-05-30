@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-image: url(./img/index2.jpg);
+    backdrop-filter: blur(20px);
+}
+
+header {
+    color: white;
+    background-color: #23232e;
+    padding: 20px;
+}
